@@ -1,0 +1,4 @@
+pip install mediapipe;
+
+first Run create_database.py
+after that run train_classifier.py
